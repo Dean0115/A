@@ -53,3 +53,24 @@ git merge nhanh_kia
 ```
 git push origin main
 ```
+
+## Pull 
+1. Check the current branch
+```
+git branch
+```
+
+2. Checkout the branch (if need)
+```
+git checkout branch_name
+```
+
+3. Pull the lastest code 
+```
+git pull 
+```
+
+or 
+```
+git pull origin branch_name
+```
