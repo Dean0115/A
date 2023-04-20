@@ -90,3 +90,6 @@ git checkout main
 ```
 git branch -D bai1
 ```
+
+
+## .gitignore
