@@ -74,3 +74,19 @@ or
 ```
 git pull origin branch_name
 ```
+
+## Fetch 
+1. Fetch the latest branch
+```
+git fetch
+```
+
+## Delete the branch
+1. Check về nhánh không xóa (ví dụ: đứng ở main -> xóa bai1)
+```
+git checkout main
+```
+
+```
+git branch -D bai1
+```
