@@ -37,3 +37,19 @@ git branch branch_name
 ```
 git checkout brach_name
 ```
+
+## Merge 
+1. Checkout the main branch
+```
+git checkout main
+```
+
+2. Merge 2 branches
+```
+git merge nhanh_kia
+```
+
+3. Push the branch
+```
+git push origin main
+```
